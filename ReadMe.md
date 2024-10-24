@@ -219,7 +219,8 @@ We welcome contributions to any aspect of the project:
 
 ## Contract Details
 - Contract Address: 0x7b0af3b474ebfc9eb1f6dc7d40bd26cf1e45e7ee4dcecc1023f4bb2676cfccb5
-- Contract Screenshot: ![Online Image](https://i.ibb.co/v475kgN/Picture1.png)
+- Contract Screenshot:
+  ![Online Image](https://i.ibb.co/v475kgN/Picture1.png)
 
 ## Contact and Support
 
